@@ -1,0 +1,45 @@
+{
+  "name": "mui",
+  "version": "0.9.3",
+  "license": "MIT",
+  "authors": [
+    "Andres Morey <andres@muicss.com>"
+  ],
+  "homepage": "https://www.muicss.com",
+  "description": "MUI is a lightweight HTML/CSS/JS framework that follows Google's Material Design guidelines.",
+  "main": [
+    "packages/cdn/css/mui.css",
+    "packages/cdn/js/mui.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/muicss/mui.git"
+  },
+  "keywords": [
+    "material design",
+    "frontend framework",
+    "html, css, and js framework",
+    "email css template"
+  ],
+  "dependencies": {},
+  "ignore": [
+    "**/.*",
+    "build-targets",
+    "e2e-tests",
+    "examples",
+    "gulpfile.js",
+    "node_modules",
+    "package.json",
+    "test"
+  ],
+  "_release": "0.9.3",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.9.3",
+    "commit": "e6d4a2d629cf04d74fbebc652b8627d0f1b6c13a"
+  },
+  "_source": "https://github.com/muicss/mui.git",
+  "_target": "^0.9.3",
+  "_originalSource": "mui",
+  "_direct": true
+}

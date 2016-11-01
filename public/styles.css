@@ -1,0 +1,17 @@
+/* You can add global styles to this file, and also import other style files */
+
+
+img{
+  width: 100%
+}
+
+.arrange{
+  margin-bottom:20px;
+  overflow:auto;
+  min-height: 410px;
+
+}
+
+.col-md-2{
+  text-align: center;
+}
